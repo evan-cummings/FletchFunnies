@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "fletchfunnies:pie_tin"
+    }
+  ],
+  "result": {
+    "item": "fletchfunnies:bomb_pie"
+  }
+}

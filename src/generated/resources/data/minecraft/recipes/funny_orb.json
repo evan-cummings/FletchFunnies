@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "fletchfunnies:funny_cube"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "fletchfunnies:funny_orb"
+  }
+}
